@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "401673548922",
+    "firebase_url": "https://notificationandroido.firebaseio.com",
+    "project_id": "notificationandroido",
+    "storage_bucket": "notificationandroido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401673548922:android:dec1f08b1fbeff60",
+        "android_client_info": {
+          "package_name": "com.black_dreams.notification.notificationandroido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401673548922-udbd25h629en3002guebt5rk42nie8p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.black_dreams.notification.notificationandroido",
+            "certificate_hash": "6266c40c1a4eaec103495e781e05bc9f43a41aa6"
+          }
+        },
+        {
+          "client_id": "401673548922-buflmrm0kl8iqc3g0t5rct28o60ea113.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZoP2cf6MaxmmoBVid0ptILj28qZiQQYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401673548922-buflmrm0kl8iqc3g0t5rct28o60ea113.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
